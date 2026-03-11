@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+
+
+@model TwoFactorSetupModel
+
+<h2>Setup Two Factor Authentication</h2>
+
+<p>Scan this QR Code using Google Authenticator</p>
+
+<img src="data:image/png;base64,@Model.QRCodeImage" />
+
+<p>Manual Key:</p>
+<b>@Model.ManualKey</b>
+
+<form method="post" asp-action="Verify2FA">
+
+    <input type="text" name="code" placeholder="Enter OTP Code" required />
+
+    <button type="submit">Verify</button>
+
+</form>

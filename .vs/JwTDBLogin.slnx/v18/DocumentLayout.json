@@ -3,48 +3,56 @@
   "WorkspaceRootPath": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\jwtdblogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|solutionrelative:jwtdblogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|solutionrelative:views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\views\\account\\setup2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|solutionrelative:views\\account\\setup2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\jwtdblogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|solutionrelative:jwtdblogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|solutionrelative:views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|solutionrelative:views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\models\\twofactorsetupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|solutionrelative:models\\twofactorsetupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|solutionrelative:views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8028660B-ECB7-4D13-9200-72F0416628CF}|JwTDBLogin.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|d:\\masstech\\jwtdblogin\\jwtdblogin\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3951261-0DC7-A0DE-EAEC-29C155AF2C6F}|JwTDBLogin.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +94,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Setup2FA.cshtml",
+              "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Views\\Account\\Setup2FA.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Setup2FA.cshtml",
+              "ToolTip": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Views\\Account\\Setup2FA.cshtml",
+              "RelativeToolTip": "Views\\Account\\Setup2FA.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T16:41:36.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "TwoFactorSetupModel.cs",
+              "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Models\\TwoFactorSetupModel.cs",
+              "RelativeDocumentMoniker": "Models\\TwoFactorSetupModel.cs",
+              "ToolTip": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Models\\TwoFactorSetupModel.cs",
+              "RelativeToolTip": "Models\\TwoFactorSetupModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:31:35.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Views\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Logout.cshtml",
@@ -99,38 +133,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAAEAAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwF4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-07T11:31:05.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T12:38:06.505Z",
+              "DocumentIndex": 2,
+              "Title": "JwTDBLogin.csproj",
+              "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\JwTDBLogin.csproj",
+              "RelativeDocumentMoniker": "JwTDBLogin.csproj",
+              "ToolTip": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\JwTDBLogin.csproj",
+              "RelativeToolTip": "JwTDBLogin.csproj",
+              "ViewState": "AgIAAAAAAACQlP206msiwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-07T11:39:16.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Views\\Home\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Dashboard.cshtml",
-              "ToolTip": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Views\\Home\\Dashboard.cshtml",
-              "RelativeToolTip": "Views\\Home\\Dashboard.cshtml",
+              "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Views\\Account\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Dashboard.cshtml",
+              "ToolTip": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Views\\Account\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Account\\Dashboard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-07T13:16:57.969Z",
@@ -138,20 +172,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JwTDBLogin",
-              "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\JwTDBLogin.csproj",
-              "RelativeDocumentMoniker": "JwTDBLogin.csproj",
-              "ToolTip": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\JwTDBLogin.csproj",
-              "RelativeToolTip": "JwTDBLogin.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-07T11:39:16.139Z",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwIcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-07T11:33:12.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T12:38:06.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -164,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -177,20 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-07T11:33:12.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -203,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -216,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Login.cs",
               "DocumentMoniker": "D:\\Masstech\\JwTDBLogin\\JwTDBLogin\\Models\\Login.cs",
               "RelativeDocumentMoniker": "Models\\Login.cs",
